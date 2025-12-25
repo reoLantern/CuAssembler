@@ -41,7 +41,7 @@ See the [User Guide](UserGuide.md) and [Tutorial](Tutorial.md) for basic tutoria
 
 ```
   export PATH=${PATH}:~/works/CuAssembler/bin
-  export PYTHONPATH=${PYTHOPATH}:~/works/CuAssembler/
+  export PYTHONPATH=${PYTHONPATH}:~/works/CuAssembler/
 ```
 
 In the dir `bin`, CuAssembler offers several python scripts(`cuasm/hnvcc/hcubin/dsass/...`) to accelerate the development procedure. Running with `python cuasm.py` or simply `cuasm.py` is not simple enough, thus a simbol link can be created: 
